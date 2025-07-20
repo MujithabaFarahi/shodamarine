@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180365432015",
+    "project_id": "shodamarine-c6fae",
+    "storage_bucket": "shodamarine-c6fae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180365432015:android:9db09f830f40d8eec693ba",
+        "android_client_info": {
+          "package_name": "com.example.shodamarine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjOAlvJ9JgUdQdKIp0sZic-pA3zDL92Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
